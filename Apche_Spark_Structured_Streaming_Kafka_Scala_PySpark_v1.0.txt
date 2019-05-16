@@ -1,0 +1,17 @@
+Structured Streaming with Kafka dependency:
+
+https://mvnrepository.com/artifact/org.apache.spark/spark-sql-kafka-0-10_2.11/2.4.0
+
+https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients/1.1.0
+
+Commandline Kafka Consumer:
+
+kafka-console-consumer --bootstrap-server localhost:9092 --topic outputtopic
+
+
+
+1. Apche Spark Structured Streaming with Kafka using Python(PySpark) | Use Case 2 | Hands-On
+
+
+2. Apche Spark Structured Streaming with Kafka using Scala | Use Case 3 | Hands-On
+
